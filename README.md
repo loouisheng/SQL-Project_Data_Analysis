@@ -227,12 +227,11 @@ Here's a breakdown of the most optimal skills for Data Analysts in 2023:
 - **Database Technologies:** The demand for skills in traditional and NoSQL databases (Oracle, SQL Server, NoSQL) with average salaries ranging from $97,786 to $104,534, reflects the enduring need for data storage, retrieval, and management expertise.
 
 # What I Learned
-Throughout this adventure, I've turbocharged my SQL toolkit with some serious firepower:
+Through this project, I significantly enhanced my SQL proficiency by applying advanced techniques to solve real-world data challenges:
 
-- 🧩 **Complex Query Crafting:** Mastered the art of advanced SQL, merging tables like a pro and wielding WITH clauses for ninja-level temp table maneuvers.
-- 📊 **Data Aggregation:** Got cozy with GROUP BY and turned aggregate functions like COUNT() and AVG() into my data-summarizing sidekicks.
-- 💡 **Analytical Wizardry:** Leveled up my real-world puzzle-solving skills, turning questions into actionable, insightful SQL queries.
-
+- 🧩 **Advanced Query Building:** Gained expertise in writing complex SQL queries, efficiently joining multiple tables, and using WITH clauses to create temporary result sets for streamlined analysis.
+- 📊 **Data Aggregation & Summarization:** Utilized GROUP BY alongside aggregate functions like COUNT() and AVG() to derive meaningful insights from raw data.
+- 💡 **Analytical Problem Solving:** Translated business questions into clear, actionable SQL queries, demonstrating strong data interpretation and analytical thinking skills.
 # Conclusion
 ### Insights
 From the analysis, several general insights emerged:
